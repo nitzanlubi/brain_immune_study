@@ -8,6 +8,6 @@ This repository contains the preprocessing and analysis codes related to the man
 
   Author:
   Nitzan Lubianiker, PhD
-  nitsan.lubianiker@yale.ude
+  nitsan.lubianiker@yale.edu
 
   
