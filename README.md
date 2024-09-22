@@ -1,5 +1,5 @@
 # Brain Immune Study
-This repository contains the preprocessing and analysis codes related to the manuscript: "Upregulation of Reward Mesolimbic Activity Improves Vacciantion in Humans"
+This repository contains the preprocessing and analysis codes related to the manuscript: "Upregulation of Reward Mesolimbic Activity via fMRI-Neurofeedback Improves Vacciantion in Humans"
 
 ## content
 - nf_immune_data_preprocessing.py: All the neural, immunological and mental proprocessing steps performed to prepare data for analysis.
